@@ -38,8 +38,6 @@ Smart-Notes/
 
 Installation & Setup:
 1)Clone the Repository
-git clone https://github.com/your-username/smart-notes.git
-cd smart-notes
 2)Install Dependencies
 pip install -r requirements.txt
 3)Setup MySQL Database
